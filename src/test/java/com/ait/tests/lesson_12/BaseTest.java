@@ -1,4 +1,4 @@
-package com.ait.tests.core;
+package com.ait.tests.lesson_12;
 
 import org.openqa.selenium.WebDriver;          // главный интерфейс Selenium для управления браузером
 import org.openqa.selenium.chrome.ChromeDriver; // реализация WebDriver именно для Google Chrome

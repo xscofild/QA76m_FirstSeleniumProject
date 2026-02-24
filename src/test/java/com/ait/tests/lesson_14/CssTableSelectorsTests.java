@@ -1,6 +1,6 @@
-package com.ait.tests.locators.tables;
+package com.ait.tests.lesson_14;
 
-import com.ait.tests.core.BaseTest;
+import com.ait.tests.lesson_12.BaseTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;

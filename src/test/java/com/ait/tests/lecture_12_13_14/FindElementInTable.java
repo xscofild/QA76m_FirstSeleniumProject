@@ -1,4 +1,4 @@
-package com.ait.tests.lecture;
+package com.ait.tests.lecture_12_13_14;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

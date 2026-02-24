@@ -1,4 +1,4 @@
-package com.ait.tests.lecture;
+package com.ait.tests.lecture_12_13_14;
 
 import org.openqa.selenium.WebDriver;          // интерфейс управления браузером
 import org.openqa.selenium.chrome.ChromeDriver; // реализация для Chrome

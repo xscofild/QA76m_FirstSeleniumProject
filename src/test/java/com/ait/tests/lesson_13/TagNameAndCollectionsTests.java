@@ -1,6 +1,6 @@
-package com.ait.tests.locators.icarro;
+package com.ait.tests.lesson_13;
 
-import com.ait.tests.core.BaseTest;
+import com.ait.tests.lesson_12.BaseTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
@@ -16,7 +16,7 @@ import static org.testng.Assert.*;
     1) findElement()  — возвращает ОДИН элемент
     2) findElements() — возвращает СПИСОК элементов
 */
-public class _03_TagNameAndCollectionsTests extends BaseTest {
+public class TagNameAndCollectionsTests extends BaseTest {
 
     // Перед каждым тестом открываем страницу
     @BeforeMethod

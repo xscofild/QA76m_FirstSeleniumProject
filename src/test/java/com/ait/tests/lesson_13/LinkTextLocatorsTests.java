@@ -1,6 +1,6 @@
-package com.ait.tests.locators.icarro;
+package com.ait.tests.lesson_13;
 
-import com.ait.tests.core.BaseTest;
+import com.ait.tests.lesson_12.BaseTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
@@ -14,7 +14,7 @@ import static org.testng.Assert.*;
     1) linkText — поиск по ТОЧНОМУ тексту ссылки
     2) partialLinkText — поиск по ЧАСТИ текста ссылки
 */
-public class _02_LinkTextLocatorsTests extends BaseTest {
+public class LinkTextLocatorsTests extends BaseTest {
 
     /*
         Перед каждым тестом открываем страницу.

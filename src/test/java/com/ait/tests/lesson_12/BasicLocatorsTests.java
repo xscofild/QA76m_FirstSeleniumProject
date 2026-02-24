@@ -1,6 +1,5 @@
-package com.ait.tests.locators.icarro;
+package com.ait.tests.lesson_12;
 
-import com.ait.tests.core.BaseTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
@@ -13,7 +12,7 @@ import static org.testng.Assert.*;
     1) id  — самый надёжный и быстрый способ найти элемент
     2) className — поиск по CSS-классу
 */
-public class _01_BasicLocatorsTests extends BaseTest {
+public class BasicLocatorsTests extends BaseTest {
 
     /*
         Перед каждым тестом открываем нужную страницу.

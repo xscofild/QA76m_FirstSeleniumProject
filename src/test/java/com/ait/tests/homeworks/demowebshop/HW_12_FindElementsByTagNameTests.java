@@ -1,4 +1,4 @@
-package homeworks.demowebshop;
+package com.ait.tests.homeworks.demowebshop;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 import java.util.List;
 
-public class FindElementsByTagNameTests {
+public class HW_12_FindElementsByTagNameTests {
 
     /*
         Homework (Lesson 12)

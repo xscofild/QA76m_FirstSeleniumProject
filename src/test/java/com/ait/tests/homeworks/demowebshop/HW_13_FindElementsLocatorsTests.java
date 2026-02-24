@@ -1,4 +1,4 @@
-package homeworks.demowebshop;
+package com.ait.tests.homeworks.demowebshop;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class FindElementsLocatorsTests {
+public class HW_13_FindElementsLocatorsTests {
 
     /*
         Homework (Lesson 13)
